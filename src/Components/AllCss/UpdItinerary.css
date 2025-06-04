@@ -1,0 +1,71 @@
+.upd-itinerary {
+  background-color: #f8f9fa;
+  padding: 2rem 0;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+
+.form-control-lg {
+  border-radius: 10px;
+  border: 1px solid #ced4da;
+  transition: border-color 0.3s ease;
+}
+
+.form-control-lg:focus {
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btn-lg {
+  border-radius: 10px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+  border-color: #545b62;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+.shadow {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}

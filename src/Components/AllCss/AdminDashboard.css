@@ -1,0 +1,45 @@
+.admin-dashboard {
+  height: 100vh;
+  /* background: url("src/Components/images/large.mp4"); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.dashboard-overlay {
+  background: rgba(255, 255, 255, 0.463);
+  padding: 2rem;
+  border-radius: 12px;
+  color: rgba(50, 50, 50, 0.836);
+  width: 80%;
+  max-width: 800px;
+}
+
+.typing-text {
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid rgb(105, 99, 99);
+}
+
+.stats-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.stat-card {
+  background: rgba(54, 33, 33, 0.2);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  width: 30%;
+}
+
+.icon {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
